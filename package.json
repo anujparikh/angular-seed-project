@@ -9,10 +9,6 @@
   "devDependencies": {
     "bower": "^1.7.9",
     "browser-sync": "^2.16.0",
-    "grunt": "^1.0.1",
-    "grunt-contrib-jshint": "^1.0.0",
-    "grunt-contrib-less": "^1.4.0",
-    "grunt-contrib-watch": "^1.0.0",
     "gulp": "^3.9.1",
     "gulp-ruby-sass": "^2.1.0",
     "gulp-util": "^3.0.7"
