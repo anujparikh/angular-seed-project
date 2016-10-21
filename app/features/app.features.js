@@ -2,5 +2,5 @@
     'use strict';
 
     angular
-        .module('app.features', []);
+        .module('app.features', ['app.components']);
 }());
